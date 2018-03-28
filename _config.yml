@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Site Title
+title: Courtney Waugh
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Courtney Waugh
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: Research & Scholarly Communication Imposter
+  email: corkiewaugh@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: #corkiewaugh
   linkedin: #username
-  github: #username
+  github: #corkiewaugh
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
+  facebook: #corkiewaugh
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
